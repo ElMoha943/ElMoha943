@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmoha943" alt="elmoha943" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/valendidio943" target="blank"><img src="https://img.shields.io/twitter/follow/valendidio943?logo=twitter&style=for-the-badge" alt="valendidio943" /></a> </p>
-
 - 🔭 I’m currently working on [This Project](https://github.com/ElMoha943/AyED_TP1_Custom)
 
 - 🌱 I’m currently learning **C# and Python**
