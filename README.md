@@ -22,7 +22,6 @@ I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming a
   
   <a href="#">
     <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
     <img src="svg/dev/tools/visualstudio.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
     <img src="svg/dev/misc/datascience.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   
@@ -42,15 +41,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <a href="mailto:valentinodidio943@gmail.com">
     <img src="svg/social/gmail.svg" alt="mail" style="vertical-align:top; margin:6px 4px">
   </a>  
-
-  <a href="#">
-    <img src="svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:6px 4px">
-  </a>  
   
-  </br>
-  </br>
-  </br>
-
   <a href="#">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>  
