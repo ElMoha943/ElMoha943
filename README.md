@@ -7,7 +7,7 @@
 
 # 💬About ME:
 
-I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming and technology has been my passion since very little and im aspiring to work as a full time dev one day in the future. In my free time I like to play videogames, Minecraft is one of my favourites and I also enjoy making servers.
+I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming and technology has been my passion since very little and im aspiring to work as a full time dev one day in the future. In my free time I like to play videogames, Minecraft is one of my favourites and I also enjoy making servers for it. My native language its Spanish but i have a pretty good knowloadge of English. 
 
 ### - Learning :
 - ✨ C#
@@ -37,7 +37,7 @@ I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming a
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/0f/57/12/0f5712b3287488aa84cf53c2e4f60cb3.gif">
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk feel free to do so 😉.
 <p img align="left">
   <a href="mailto:valentinodidio943@gmail.com">
     <img src="svg/social/gmail.svg" alt="mail" style="vertical-align:top; margin:6px 4px">
