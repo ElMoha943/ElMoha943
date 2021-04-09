@@ -46,13 +46,17 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>  
   
+  <a href="https://www.linkedin.com/in/valentino-casadidio-37b355209/">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
   <a href="https://steamcommunity.com/id/ElMoha943943/">
     <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 </p>
 
 <p align="left" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a> 
     <img src="https://github-readme-stats.vercel.app/api?username=ElMoha943&&show_icons=true&theme=radical" width="50%"/>
   </a>
 </p>
