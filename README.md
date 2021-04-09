@@ -36,13 +36,13 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/0f/57/12/0f5712b3287488aa84cf53c2e4f60cb3.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+<p img align="left">
+  <a href="mailto:valentinodidio943@gmail.com">
+    <img src="svg/social/gmail.svg" alt="mail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:6px 4px">
   </a>  
   
   </br>
@@ -50,14 +50,21 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </br>
 
   <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a> 
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>  
   
   <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Activity
 <p align="center" >  
