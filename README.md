@@ -42,11 +42,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img src="svg/social/gmail.svg" alt="mail" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-  <a href="#">
+  <a href="https://twitter.com/Valendidio943">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-  <a href="#">
+  <a href="https://steamcommunity.com/id/ElMoha943943/">
     <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
