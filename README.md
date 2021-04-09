@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elmoha943&label=Profile%20views&color=0e75b6&style=flat" alt="elmoha943" /> </p>
-
 <h1 align="center">Hi 👋, I'm Valen</h1>
 <h3 align="center">A junior dev from Argentina</h3>
 
@@ -9,7 +7,7 @@
 
 # 💬About ME:
 
-
+I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming and technology has been my passion since very little and im aspiring to work as a full time dev one day in the future. In my free time I like to play videogames, Minecraft is one of my favourites and I also enjoy making servers.
 
 ### - Learning :
 - ✨ C#
