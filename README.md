@@ -24,6 +24,10 @@
   
   <a href="#">
     <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/visualstudio.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/misc/datascience.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  
   </a>  
   
 </p>
@@ -67,9 +71,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ElMoha943&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=ElMoha943&&show_icons=true&theme=radical"/>
   </a>
-  </p>
+</p>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmoha943" alt="elmoha943" /></a> </p>--!>
