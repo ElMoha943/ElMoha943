@@ -53,7 +53,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ElMoha943&&show_icons=true&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ElMoha943&&show_icons=true&theme=radical" width="50%"/>
   </a>
 </p>
 
