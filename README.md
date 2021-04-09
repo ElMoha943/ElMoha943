@@ -20,11 +20,13 @@
 - ✨ Programming
 
 # 💻Languages & Tools:
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<p align="left">
+<p align="center">
+  
   <a href="#">
     <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
+  
+</p>
 
 # ✉️Contact Me:
 <p>
