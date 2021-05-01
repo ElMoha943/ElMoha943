@@ -46,7 +46,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-  <a href="https://www.linkedin.com/in/valentino-casadidio-37b355209/">
+  <a href="https://www.linkedin.com/in/valendidio943/">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   
