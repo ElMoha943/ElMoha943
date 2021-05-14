@@ -9,22 +9,14 @@
 
 I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming and technology has been my passion since very little and im aspiring to work as a full time dev one day in the future. In my free time I like to play videogames, Minecraft is one of my favourites and I also enjoy making servers for it. My native language its Spanish but i have a pretty good knowloadge of English. 
 
-### - Learning :
-- ✨ C#
-- ✨ Python
-
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Programming
-
 # 💻Languages & Tools:
 <p align="center">
   
   <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/dev/tools/visualstudio.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/dev/misc/datascience.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  
+    <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/visualstudio.svg" alt="visual studio" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/misc/datascience.svg" alt="SQL" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
   
 </p>
