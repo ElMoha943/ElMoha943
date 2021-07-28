@@ -7,7 +7,7 @@
 
 # 💬About ME:
 
-I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming and technology has been my passion since very little and im aspiring to work as a full time dev one day in the future. In my free time I like to play videogames, Minecraft is one of my favourites and I also enjoy making servers for it. My native language its Spanish but i have a pretty good knowledge of English. 
+I'm 19 years old, I'm currently studying IT Engineering at UTN Frro. Programming and technology have been my passion since very little and I'm aspiring to work as a full time dev one day in the future. In my free time I like to play video games, Minecraft is one of my favourites and I also enjoy making servers for it. My native language is Spanish but I have a pretty good knowledge of English. I mainly use github to upload my school assignments, but also some personal projects.
 
 # 💻Languages & Tools:
 <p align="center">
