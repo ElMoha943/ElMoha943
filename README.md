@@ -32,19 +32,19 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p img align="left">
 
   <a href="https://discordapp.com/users/259183988604796945/">
-    <img src="svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:5px 4px">
   </a>  
   
   <a href="mailto:valentinodidio943@gmail.com">
-    <img src="svg/social/gmail.svg" alt="mail" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/gmail.svg" alt="mail" style="vertical-align:top; margin:5px 4px">
   </a>  
   
   <a href="https://twitter.com/Valendidio943">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:5px 4px">
   </a>  
   
   <a href="https://www.linkedin.com/in/valendidio943/">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:5px 4px">
   </a>
   
 </p>
