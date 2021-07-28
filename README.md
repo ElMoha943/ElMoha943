@@ -53,6 +53,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
 </p>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmoha943" alt="elmoha943" /></a> </p>--!>
+## Github Tropys 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=elmoha943&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
 
