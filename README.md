@@ -32,7 +32,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p img align="left">
 
   <a href="https://discordapp.com/users/259183988604796945/">
-    <img src="png/social/discord.png" alt="discord" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/discord.svg" alt="discord" style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="mailto:valentinodidio943@gmail.com">
