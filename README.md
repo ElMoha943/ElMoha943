@@ -30,6 +30,11 @@ I'm 19 years old, im currently studing IT Engineering at UTN Frro. Programming a
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk feel free to do so 😉.
 <p img align="left">
+
+  <a href="https://discordapp.com/users/259183988604796945/">
+    <img src="png/social/discord.png" alt="discord" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
   <a href="mailto:valentinodidio943@gmail.com">
     <img src="svg/social/gmail.svg" alt="mail" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -42,9 +47,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="https://steamcommunity.com/id/ElMoha943943/">
-    <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
-  </a>
 </p>
 
 <p align="left" >  
