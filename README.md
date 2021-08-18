@@ -51,11 +51,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="left" >  
   <a> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ElMoha943&&show_icons=true&theme=radical" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ElMoha943&show_icons=true&theme=radical" width="50%"/>
   </a>
 </p>
 
-## Github Tropys 🏆
+## Github Trophies 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=elmoha943&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
