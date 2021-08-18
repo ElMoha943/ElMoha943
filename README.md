@@ -55,7 +55,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
 </p>
 
-## Github Trophys 🏆
+## Github Trophies 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=elmoha943&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
