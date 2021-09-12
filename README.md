@@ -10,16 +10,22 @@
 I'm 20 years old, I'm currently studying IT Engineering at UTN Frro. Programming and technology have been my passion since very little and I'm aspiring to work as a full time dev one day in the future. In my free time I like to play video games, Minecraft is one of my favourites and I also enjoy making servers for it. My native language is Spanish but I have a pretty good knowledge of English. I mainly use github to upload my school assignments, but also some personal projects.
 
 # 💻Languages & Tools:
+
 <p align="center">
-  
   <a href="#">
     <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
     <img src="svg/dev/tools/visualstudio.svg" alt="visual studio" style="vertical-align:top; margin:6px 4px">
     <img src="svg/dev/misc/datascience.svg" alt="SQL" style="vertical-align:top; margin:6px 4px">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
-  
 </p>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoha943&hide=swig,makefile&theme=radical&layout=compact" />
+  </a>
+</div>
+
 
 # ✉️Contact Me:
 <p>
