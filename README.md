@@ -46,7 +46,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:5px 4px">
   </a>
 </p>
-<br>
 <p align="left" >  
   <a> 
     <img src="https://github-readme-stats.vercel.app/api?username=ElMoha943&show_icons=true&theme=radical" width="50%"/>
