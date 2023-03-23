@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valen</h1>
-<h3 align="center">A junior dev from Argentina</h3>
+<h3 align="center">Your local Dev from Argentina</h3>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/images/f4d420037e1a34666d43f006ede7d686/tenor.gif">
@@ -7,7 +7,7 @@
 
 # 💬About ME:
 
-I'm 21 years old, I'm currently studying IT Engineering at UTN Frro. Programming and technology have been my passion since very little and I'm aspiring to work as a full time dev one day in the future. In my free time I like to play video games, Minecraft is one of my favourites and I also enjoy making servers for it. My native language is Spanish but I have a pretty good knowledge of English. I mainly use github to upload my school assignments, but also some personal projects.
+I'm 21 years old, I'm currently studying IT Engineering. Programming and technology have been my passion since very little and I'm aspiring to work as a full time dev one day in the future. In my free time I like to play video games, Minecraft is one of my favourites and I also enjoy making servers for it. My native language is Spanish but I have a pretty good knowledge of English. I mainly use github to upload my school assignments, but also some personal projects.
 
 # 💻Languages & Tools:
 
