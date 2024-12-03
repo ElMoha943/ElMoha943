@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Valen</h1>
-<h3 align="center">Your local Dev from Argentina</h3>
-
 # 💬About ME:
 
 I am a self-taught and independent developer with a passion for learning and problem-solving. I specialize in languages like C# and Python, as well as working with databases to create efficient and scalable solutions.
