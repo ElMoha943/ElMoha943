@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valen</h1>
 <h3 align="center">Your local Dev from Argentina</h3>
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/images/f4d420037e1a34666d43f006ede7d686/tenor.gif">
-</div>
-
 # 💬About ME:
 
 I am a self-taught and independent developer with a passion for learning and problem-solving. I specialize in languages like C# and Python, as well as working with databases to create efficient and scalable solutions.
@@ -16,23 +12,6 @@ Among my repositories, you will find:
 - Assets for VRChat, Minecraft, and other video games.
 
 I am someone who enjoys tackling new challenges, learning from every experience, and adding value through my projects. I hope you find something interesting here! 🚀
-
-# 💻Languages & Tools:
-
-<p align="center">
-  <a href="#">
-    <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/dev/tools/visualstudio.svg" alt="visual studio" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/dev/misc/datascience.svg" alt="SQL" style="vertical-align:top; margin:6px 4px">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoha943&hide=swig,makefile&theme=radical&layout=compact" />
-</div>
-<br>
-<small>Note that graph above does not indicate my skill level, it's a GitHub metric of which languages have the most code on GitHub.</small>
 
 # ✉️Contact Me:
 <p>
