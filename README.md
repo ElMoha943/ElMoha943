@@ -11,9 +11,9 @@ I am a self-taught and independent developer with a passion for learning and pro
 
 Among my repositories, you will find:
 
-    Personal projects that reflect my skills and passion for programming.
-    Proofs of concept, where I experiment with new technologies and innovative ideas.
-    Assets for VRChat, Minecraft, and other video games.
+- Personal projects that reflect my skills and passion for programming.
+- Proofs of concept, where I experiment with new technologies and innovative ideas.
+- Assets for VRChat, Minecraft, and other video games.
 
 I am someone who enjoys tackling new challenges, learning from every experience, and adding value through my projects. I hope you find something interesting here! 🚀
 
