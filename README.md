@@ -7,7 +7,15 @@
 
 # 💬About ME:
 
-I'm 21 years old, I'm currently studying IT Engineering. Programming and technology have been my passion since very little and I'm aspiring to work as a full time dev one day in the future. In my free time I like to play video games, Minecraft is one of my favourites and I also enjoy making servers for it. My native language is Spanish but I have a pretty good knowledge of English. I mainly use github to upload my school assignments, but also some personal projects.
+I am a self-taught and independent developer with a passion for learning and problem-solving. I specialize in languages like C# and Python, as well as working with databases to create efficient and scalable solutions.
+
+Among my repositories, you will find:
+
+    Personal projects that reflect my skills and passion for programming.
+    Proofs of concept, where I experiment with new technologies and innovative ideas.
+    Assets for VRChat, Minecraft, and other video games.
+
+I am someone who enjoys tackling new challenges, learning from every experience, and adding value through my projects. I hope you find something interesting here! 🚀
 
 # 💻Languages & Tools:
 
